@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/sarbajit/PycharmProjects/mnist/mnist_saved/mnist_1CONV_callback/mnistCV_1CONV_callback"
+all_model_checkpoint_paths: "/home/sarbajit/PycharmProjects/mnist/mnist_saved/mnist_1CONV_callback/mnistCV_1CONV_callback"

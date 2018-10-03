@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/sarbajit/PycharmProjects/mnist/mnist_saved/mnist_25CONV/my_net25"
+all_model_checkpoint_paths: "/home/sarbajit/PycharmProjects/mnist/mnist_saved/mnist_25CONV/my_net25"
